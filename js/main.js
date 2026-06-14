@@ -1,0 +1,1 @@
+console.log('Kashi Jyotish site loaded');
